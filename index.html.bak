@@ -1,0 +1,371 @@
+<!Doctype html>
+<head>
+<title>zohocorp.com</title>
+<link rel   ="stylesheet" type="text/css" href="css/style.css" ></link>
+<link rel ="icon" type="image/x-icon" href="image/favicon.ico"></link>
+<script></script>
+<style></style>
+<meta></meta>
+
+
+</head>
+<body>
+<div class="header">
+ <div class="combined-header ">
+
+<div class="head1">
+<img src="image/top.png">
+</div>
+<div class="head2">
+<h2>
+    Business software is our 
+</h2>
+</div>
+<div  class="head3">
+<img src="image/craft.png">
+</div>
+<div class="head4">
+
+
+<ul class="list">
+<li>OUR BRANDS</li>
+<li>OUR CUSTOMERS</li>
+<li>GLOBAL PRESENCE</li>
+</ul>
+</div>
+
+</div>
+</div>
+<div class="mid">
+<p>From L-R: M.Saravanan, Rajesh, and Radha Vembu are senior managers who've spent close to two decades at Zoho Corp.</p>
+</div>
+
+<div class="combined_header3">
+<div class="title1"> 
+  <h1>
+  Our Brands
+  </h1>
+  
+</div>
+
+<div class="section_zoho">
+<div class="hero_section">
+  
+  <div class="page-center">
+<div class="section1">
+
+<p>
+  Transform the way you work, with a unique and <br>powerful site of software that runs your entire,<br> business.
+</p>
+
+
+<div class="img1">
+ <img src="image/screenshot1.png";>
+</div>
+
+
+<button>
+  <a class="cta" href="https://www.zoho.com?utm_source=zohocorp&amp;utm_medium=referral&amp;utm_campaign=internal" target="_blank">Explore Zoho</a>
+</button>
+
+</div>
+</div>
+</div>
+
+
+<div class="position">
+<div class="hero_section2">
+<div class="zoho_logo">
+<img src="image/top.png";>
+</div>
+
+<div class="part1">
+<p>
+your life's work,powered by <br>
+our life's work
+
+</p>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+
+
+<!-- section zoho ends -->
+
+<div class="combined_header10">
+
+<div class="section_zoho_2">
+  <div class="hero_section_p2">
+    
+    <div class="page-center">
+  <div class=" p2_section1">
+  
+  <p>
+    Comprehensive IT management software for all your <br>business needs.
+  </p>
+  
+  
+  <div class="img1.1">
+   <id=" 001"img src="image/screenshot2.png";>
+  </div>
+  
+  
+  <button>
+    <a class="cta" href="https://www.manageengine.com/?utm_source=zohocorp&amp;utm_medium=referral&amp;utm_campaign=internal" target="_blank">Explore ManageEngine</a>
+  </button>
+  
+  </div>
+  </div>
+  </div>
+  
+  
+  <div class="position">
+  <div class="hero_section2_p2">
+  <div class="zoho_logo1">
+  <img src="image/screenshot3.png";>
+  </div>
+  
+
+  
+  
+  </div>
+  </div>
+  
+  </div>
+
+</div>  
+<!-- section zoho2 ends -->
+
+  <div class="combined_header8">
+<div class="section_zoho_3">
+  <div class="hero_section_p3">
+    
+    <div class="page-center">
+  <div class="p3_section1">
+  
+  <p>
+    A workflow orchestration software that helps you<br> gain visibility and control over your business<br> processes by automating them..
+  </p>
+  
+
+  
+  
+  <button>
+    <a class="cta" href="https://www.qntrl.com?utm_source=zohocorp&amp;utm_medium=referral&amp;utm_campaign=internal" target="_blank">Explore Qntrl</a>
+  </button>
+  
+  </div>
+  </div>
+  </div>
+  </div>
+  
+  <div class="position">
+  <div class="hero_section2_p3">
+    <div class="zoho_logo2">
+      <img src="image/screenshot4.png";>
+      </div>
+
+<div class="part2">
+
+  <p>
+    Democratizing Business Process <br>Software
+  </p>
+
+</div>
+
+  </div>
+  </div>
+  </div>
+  <!-- section zoho3 ends -->
+  <div class="combined_header9">
+  <div class="section_zoho_4">
+    <div class="hero_section_p4">
+      
+      <div class="page-center">
+    <div class="p4_section1">
+    
+    <p>
+      A comprehensive platform to help you build<br> engaging online courses, nurture a learning <br>community and turn your expertise into a <br>successful training business.
+    </p>
+    
+
+    <button>
+      <a class="cta" href="https://www.trainercentral.com?utm_source=zohocorp&amp;utm_medium=referral&amp;utm_campaign=internal" target="_blank">Explore TrainerCentral</a>
+    </button>
+    
+    </div>
+    </div>
+    </div>
+    </div>
+    
+    <div class="position">
+    <div class="hero_section2_p4">
+      <div class="zoho_logo3">
+        <img src="image/screenshot5.png";>
+        </div>
+  
+  <div class="part3">
+  
+    <p>
+      An all-in-one training platform
+    </p>
+  
+  </div>
+  
+    </div>
+    </div>
+    </div>
+<div class="combined_header2">
+<div class="body_section">
+<div class="page-center1">
+<div class="customers">
+<h1>
+  Our Customers
+</h1>
+</div>
+
+
+
+<div class="cus_part1">
+<p>
+  Three out of every five Fortune 500 companies trust Zoho.
+</p>
+</div>
+
+
+<div class="logos">
+<img src="image/screenshot6.png";>
+</div>
+
+
+<div class="btn1">
+
+<button>
+  <a target="_blank" class="customer" href="https://www.zoho.com/customers.html?utm_source=zohocorp&amp;utm_medium=referral&amp;utm_campaign=internal">Zoho Customers</a>
+</button>
+</div>
+
+<div class="btn2">
+<button>
+  <a target="_blank" class="customer" href="https://www.manageengine.com/customers.html?utm_source=zohocorp&amp;utm_medium=referral&amp;utm_campaign=internal">ManageEngine Customers</a>
+</button>
+
+</div>
+
+
+
+</div>
+</div>
+</div>
+<!-- herosection ends -->
+<div class="desc">
+
+<h2>Global Presence</h2>
+</div>   
+<div class="wrapper">
+  <div class="map container">
+    <img class="zbanner-map" src="image/global-map.png" alt="">
+<div class="zmap-points-container us active" id="zmap-us">
+  <span class="zmap-points">&nbsp;</span>
+  <div class="zmap-points-details">
+   
+</div>
+</div>
+</div>
+
+
+  </div>
+
+
+
+
+</div>
+
+
+
+<div class="footer">
+<div class="combined-header5">
+
+</div>
+
+</div>
+
+
+<div class="butt">
+  <a href="https://www.zoho.com/careers/" target="_blank">Careers</a>
+
+
+
+</div>
+
+<div class="end">
+<p>
+  ©2022, Zoho Corporation Pvt. Ltd. All rights reserved.
+
+</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>

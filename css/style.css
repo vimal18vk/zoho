@@ -1,0 +1,641 @@
+body{margin :0 auto; padding:0 auto;}
+.header{float:left;width:100%; text-align: center; margin:0.08em;}
+.head1 img {
+  float: none;
+  text-align: center;
+  width: 11%;
+  margin-top: 5em;
+  padding: 0em;
+}
+
+
+
+
+.head2 img {
+  text-align: center;
+  width: 11%;
+  margin-top: 80px;
+  float: none;
+  margin-bottom: 0em;
+  position: relative;
+  top: -12em;
+  left: 13em;
+}
+.combined-header {
+  float: left;
+  width: 100%;
+  background-image: linear-gradient(45deg,rgba(0, 0, 0, 0),rgba(0, 0, 0, 0)),url('../image/banner.jpg');
+  height: 1000px;
+  background-repeat: norepeat;
+  background-size: 100% 100%;
+}
+ .head2 h1{
+  font-family: "zoho_puvi_semibold";
+  line-height: 1.1;
+  margin: 30px auto;
+    margin-top: 30px;
+  margin-top: 30px;
+  margin-top: 30px;
+  margin-top: 30px;
+  font-size: 69px;
+  letter-spacing: 1px;
+  max-width: 540px;
+  color: white;
+  margin-top: 14px;
+  position: relative;
+  left: -14em;
+}
+ 
+
+  }
+  .head4 {
+    float: left;
+    width: 70%;
+   
+    transition-delay: 500ms;
+  }
+
+
+.list {
+  display: inline;
+  margin-left: 3em;
+  text-align: center;
+  color: white;
+}
+  li {
+  display: inline;
+  margin-left: 3em;
+  text-align: center;
+  color: white;
+}
+.mid{ float:right;font-size: 14px;    
+    color: #666;
+    background: #fff;
+    width:100%
+}
+
+
+.combined_header2{ float: left; width: 100%; background-image:linear-gradient(45deg,rgba(250, 245, 245, 0.431),rgba(250, 242, 242, 0.528)),url('../image/index111.jpg');/*background-image:url('..image/index111.jpg');*/ background-repeat:norepeat;background-size: 100% 100%;}
+
+.combined_header3{ float: left; width: 100%; background-image:linear-gradient(45deg,rgba(245, 235, 235, 0.435),rgba(251, 240, 240, 0.572)),url('../image/support1.png');/*background-image:url('..image/support1.png');*/ background-repeat:norepeat;background-size: 100% 100%;}
+
+.combined_header8{ float: left; width: 100%; background-image:linear-gradient(45deg,rgba(250, 246, 246, 0.404),rgba(246, 243, 243, 0.472)),url('../image/support3.png');/*background-image:url('..image/support3.png');*/ background-repeat:norepeat;background-size: 100% 100%;}
+
+.combined_header10{ float: left; width: 100%; background-image:linear-gradient(45deg,rgba(250, 246, 246, 0.339),rgba(246, 243, 243, 0.472)),url('../image/support1.png');/*background-image:url('..image/support1.png');*/ background-repeat:norepeat;background-size: 100% 100%;}
+
+.combined_header9{ float: left; width: 100%; background-image:linear-gradient(45deg,rgba(250, 246, 246, 0.354),rgba(246, 243, 243, 0.472)),url('../image/support3.png');/*background-image:url('..image/support3.png');*/ background-repeat:norepeat;background-size: 100% 100%;}
+
+
+.title1 {
+  float: left;
+    width: 100%;}
+
+   .title1  h1 {
+      text-align: center;
+      margin-top: 2em;
+      margin-bottom: -129px;
+      font-family: "zoho_puvi_bold";
+      font-size: 53px;
+    }
+  
+
+    .hero_section {
+      float: left;
+      width: 100%;
+      height: 300px;
+    }
+
+.section_zoho {
+  background: #f7f7f7 url(../images/support1.png) repeat;
+    background-size: auto;
+  background-size: 100px;
+}
+.section1 {
+  float: left;
+  width: 88%;
+  height: 540px;
+  background: #ffdd2b;
+}
+.page-center {
+  max-width: 77%;
+  float: left;
+  width: 100%;
+  margin-left: 8em;
+  margin-top: 10em;
+}
+
+.customer {
+  color: orange;
+  text-decoration: none;
+}
+
+.customer {
+  color: orange;
+  text-decoration: none;
+}
+.img1{float:left;width: 100%;}
+
+
+.img1 img {
+  float: left;
+  width: 41%;
+  padding-left: 107px;
+padding-top: 17px;}
+
+.part1 {
+  font-family: "zoho_puvi_semibold";
+  text-transform: capitalize;
+  color: #000;
+  font-size: 17px;
+  line-height: 1.6;
+  text-align: center;
+  position: relative;
+  right: 5em;
+}
+.section1 p {
+  font-family: 'Roboto Slab';
+  font-size: 22px;
+  line-height: 1.8;
+  font-weight: 400;
+  padding-left: 5em;
+  padding-top: 3em;
+}
+
+.section1 button {
+  width: 20%;
+  padding: 11px;
+  background-color: #f0483e;
+  color: white;
+  font: inherit;
+  text-transform: uppercase;
+  border: none;
+  text-decoration: none;
+  margin-top: 3em;
+  margin-left: 7em;
+}
+
+.hero_section2 {
+  float: left;
+  width: 31%;
+  margin: 5em;
+  position: relative;
+  left: 47em;
+  top: 3em;
+  background-color: white;
+  height: 23em;
+}
+ .hero_section2  img {
+  width: 54%;
+  padding-top: 5em;
+  padding-left: 6em;
+}
+.part1 {
+  float: left;
+  width: 100%;
+  padding-left: 4em;
+  padding-top: 2em;
+  font-family: "zoho_puvi_semibold";
+  text-transform: capitalize;
+  color: #000;
+  font-size: 17px;
+  line-height: 1.6;
+  margin: 0 0 20px;
+}
+
+
+.hero_section_p2 {
+  float: left;
+  width: 100%;
+  height: 474px;
+}
+
+.section_zoho _2{
+  background: #f7f7f7 url(../images/support1.png) repeat;
+    background-size: auto;
+  background-size: 100px;
+}
+.p2_section1 {
+  float: left;
+  width: 90%;
+  height: 660px;
+  background: #01a768;
+}
+.page-center {
+  max-width: 77%;
+  float: left;
+  width: 100%;
+  margin-left: 8em;
+  margin-top: 10em;
+}
+
+
+.img1.1{float:left;width: 100%;}
+
+.img1.1 img {
+  padding-left: 5em;
+}
+.img1.1 img {
+  float: none;
+  width: 103%;
+ 
+  padding-left: 5em;
+
+  padding-top: 0em;
+  margin-top: -5em;
+}
+
+.p2_section1 p {
+  font-family: 'Roboto Slab';
+  font-size: 24px;
+  line-height: 1.8;
+  font-weight: 400;
+  padding-left: 4em;
+  padding-top: 3em;
+  color: #c7ecc6;
+  box-sizing: border-box;
+}
+
+.p2_section1 button {
+  width: 27%;
+  padding: 11px;
+  background-color: #f0483e;
+  color: white;
+  font: inherit;
+  text-transform: uppercase;
+  border: none;
+  text-decoration: none;
+  margin-top: 2em;
+  margin-left: 6em;
+}
+
+.hero_section2_p2 {
+  float: left;
+  width: 28%;
+  margin: 5em;
+  position: relative;
+  left: 47em;
+  top: -3em;
+  background-color: white;
+  height: 20em;
+}
+.hero_section2_p2 img {
+  float: none;
+  width: 100%;
+  margin-top: -2em;
+  margin-left: -3em;
+}
+
+
+
+
+.hero_section_p3 {
+  float: left;
+  width: 100%;
+  height: 290px;
+}
+
+.section_zoho_3{
+  background: #f7f7f7 url(../images/support1.png) repeat;
+    background-size: auto;
+  background-size: 100px;
+}
+.p3_section1 {
+  float: left;
+  width: 90%;
+  height: 484px;
+  background: #4b4b4b;
+}
+.page-center {
+  max-width: 77%;
+  float: left;
+  width: 100%;
+  margin-left: 8em;
+  margin-top: 10em;
+}
+
+
+
+
+.p3_section1 p {
+  font-family: 'Roboto Slab';
+  font-size: 24px;
+  line-height: 1.8;
+  font-weight: 400;
+  padding-left: 4em;
+  padding-top: 3em;
+  color: #c7ecc6;
+  box-sizing: border-box;
+}
+
+.p3_section1 button {
+  width: 25%;
+  padding: 11px;
+  background-color: #f0483e;
+  color: white;
+  font: inherit;
+  text-transform: uppercase;
+  border: none;
+  text-decoration: none;
+  margin-top: 2em;
+  margin-left: 6em;
+}
+
+.hero_section2_p3 {
+  float: left;
+  width: 28%;
+  margin: 5em;
+  position: relative;
+  left: 47em;
+  top: 3em;
+  background-color: white;
+  height: 20em;
+}
+.zoho_logo2 {
+  float: none;
+  width: 148%;
+  margin-top: -3em;
+  margin-left: -3em;
+}
+ .zoho_logo2 img {
+  text-align: center;
+  margin-left: 5em;
+  margin-top: 7em;
+}
+.part2 {
+  float: left;
+  width: 100%;
+  padding-left: 3em;
+  padding-top: 0em;
+  font-family: "zoho_puvi_semibold";
+  text-transform: capitalize;
+  color: #000;
+  font-size: 20px;
+  line-height: 1.6;
+  margin: 0 0 20px;
+}
+
+.position {
+  position: relative;
+  float: none;
+  max-width: 90%;
+  top: -11em;
+  left: 15em;
+}
+
+
+.hero_section_p4{float:left ;width: 100%;}
+
+.section_zoho_4{
+  background: #f7f7f7 url(../images/support1.png) repeat;
+    background-size: auto;
+  background-size: 100px;
+}
+.p4_section1 {
+  float: left;
+  width: 90%;
+  height: 420px;
+  background-color: #212971;
+}
+.page-center {
+  max-width: 77%;
+  float: left;
+  width: 100%;
+  margin-left: 8em;
+  margin-top: 10em;
+}
+
+
+
+
+.p4_section1 p {
+  font-family: 'Roboto Slab';
+  font-size: 24px;
+  line-height: 1.8;
+  font-weight: 400;
+  padding-left: 4em;
+  padding-top: 3em;
+  color: #c7ecc6;
+  box-sizing: border-box;
+}
+.cta {
+  text-decoration: none;
+  color: white;
+}
+
+.p4_section1 button {
+  width: 29%;
+  padding: 11px;
+  background-color: #f0483e;
+  color: white;
+  font: inherit;
+  text-transform: uppercase;
+  border: none;
+  text-decoration: none;
+  margin-top: -1em;
+  margin-left: 6em;
+}
+.hero_section2_p4 {
+  float: left;
+  width: 28%;
+  margin: 5em;
+  position: relative;
+  left: 47em;
+  top: -17em;
+  background-color: white;
+  height: 20em;
+}
+#\30 01 {
+  margin-left: 5em;
+}
+.zoho_logo3 {
+  float: none;
+  width: 100%;
+  margin-top: 2em;
+  margin-left: 4em;
+  margin-bottom: 1em;
+}
+.part3 {
+  float: left;
+  width: 100%;
+  padding-left: 2em;
+  padding-top: 0em;
+  font-family: "zoho_puvi_semibold";
+  text-transform: capitalize;
+  color: #000;
+  font-size: 20px;
+  line-height: 0.6;
+  margin: 0 0 20px;
+}
+.combined_header2.page_center4 {
+  float: left;
+  width: 100%;
+  max-width: 70%;
+  margin-left: 12em;
+}
+.body_section {float:left;width:100%;}
+.page-center1 {
+  float: left;
+  width: 100%;
+  max-width: 70%;
+  margin-left: 13em;
+  margin-top: 0em;
+  height: 570px;
+  background-color: white;
+}
+.customers h1 {
+text-align:center;
+  font-family: "zoho_puvi_bold";
+  font-size: 53px;
+  
+  padding-top: 1em;
+}
+
+.cus_part1 p {
+  float: none;
+  width: 100%;
+  font-size: 21px;
+  line-height: 1.6;
+  margin: 0 0 20px;
+    margin-left: 0px;
+  text-align: center;
+  margin-left: -1em;
+  color: black;
+}
+
+.logos img {
+  float: none;
+  width: 100%;
+  padding-left: 0px;
+  padding-top: 0em;
+  height: 213px;
+}
+
+.btn1 button {
+  float: left;
+  width: 20%;
+  padding: 7px;
+  border: 1px solid orange;
+  margin-left: 16em;
+  border-block-color: orange;
+  color: orange;
+  margin-top: 2em;
+  font-size: 16px;
+}
+
+
+
+
+.btn2 button {
+  float: left;
+  width: 25%;
+  padding: 7px;
+  margin-left: 7em;
+  color:orange;
+  border: 1px solid orange;
+  margin-top: 2em;
+  font-size: 16px;
+}
+
+
+.desc h2 {
+  float: left;
+  width: 100%;
+  font-family: "zoho_puvi_bold";
+  font-size: 65px;
+  text-align: center;
+  height: 0em;
+  margin-top: 2em;
+}
+
+
+    .wrapper {
+      vertical-align: middle;
+      display: inline-block;
+      box-sizing: border-box;
+      width: 95%;
+      float: none;
+      margin-left: 36px;
+    }
+    .map-container {
+      position: relative;margin: 0;
+      padding: 0;
+        border: 0;}
+
+        .zbanner-map {
+          float: none;
+          width: 100%;
+          padding-top: 6em;
+          padding-left: 0px;
+        }
+
+.map_img{ max-width: 100%;height: auto;margin: 0;
+  padding: 0;
+  border: 0; float: none;
+  width: 100%;
+  padding-left: 28px;
+  padding-top: 6em;}
+  
+
+  .zmap-points-container.us {
+    left: 16%;
+    top:10%;}
+
+
+    .zmap-points-container {
+      position: absolute;
+      cursor: pointer;
+    }
+
+    .zmap-points {
+      display: inline-block;
+      background: url(../images/global-map-pointer.png) no-repeat;
+        background-size: auto;
+      width: 14px;
+      background-size: 100%;
+    }
+
+    .footer {
+      float: left;
+      width: 100%;
+      ;
+    }
+    .combined-header5 {
+      float: left;
+      width: 95%;
+      background-image: linear-gradient(45deg,rgba(0, 0, 0, 0),rgba(0, 0, 0, 0)),url('../image/ceo 11.png');
+      background-repeat: norepeat;
+      background-size: 100% 100%;
+      height: 660px;
+      margin-top: 12em;
+      margin-left: 3em;
+    }
+
+    a {
+      text-decoration: none;
+      color: slateblue;
+    }
+
+    .butt {
+      float: left;
+      width: 10%;
+      padding: 4px;
+      border: 1px solid slateblue;
+      color: slateblue;
+      margin-left: 35em;
+      margin-top: 7em;
+      text-align: center;
+    }
+  .butt{text-decoration: none;}
+      
+  .end {
+    float: left;
+    width: 30%;
+    margin-top: 10em;
+    margin-left: -15em;
+  }
+
+.zoho_logo1 {
+  margin-left: 3em;
+  text-align: center;
+  margin-top: 4em;
+}
